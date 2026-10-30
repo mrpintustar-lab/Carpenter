@@ -1,0 +1,6 @@
+{
+  "name": "Carpenter Haziri",
+  "description": "कारपेंटर और ठेकेदार के लिए हाज़िरी, सेल्फी फोटो, GPS लोकेशन, इन/आउट टाइम और मासिक मजदूरी हिसाब ऐप",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

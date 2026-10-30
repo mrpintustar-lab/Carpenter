@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Carpenter Wooden Board / Clipboard base -->
+    <path
+        android:fillColor="#E0A96D"
+        android:pathData="M32,24 L76,24 A6,6 0 0,1 82,30 L82,78 A6,6 0 0,1 76,84 L32,84 A6,6 0 0,1 26,78 L26,30 A6,6 0 0,1 32,24 Z" />
+    <path
+        android:fillColor="#C48B4E"
+        android:pathData="M30,30 L78,30 L78,80 L30,80 Z" />
+    <path
+        android:fillColor="#FAF5EE"
+        android:pathData="M34,34 L74,34 L74,76 L34,76 Z" />
+
+    <!-- Carpenter Handsaw (blade & wooden handle) -->
+    <!-- Blade: angled teeth saw -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M32,38 L68,48 L68,54 L62,54 L60,52 L56,54 L54,52 L50,54 L48,52 L44,54 L42,52 L38,54 L36,52 L32,54 Z" />
+    <!-- Saw handle -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M24,40 C24,37 28,36 32,38 L32,55 C28,57 24,55 24,50 Z" />
+    <!-- Saw handle grip hole -->
+    <path
+        android:fillColor="#1A110B"
+        android:pathData="M27,44 A2.5,2.5 0 1,0 27,49 A2.5,2.5 0 1,0 27,44 Z" />
+
+    <!-- Attendance Checklist Lines on sheet -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M44,60 L68,60 A1.5,1.5 0 0,1 68,63 L44,63 A1.5,1.5 0 0,1 44,60 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M44,68 L60,68 A1.5,1.5 0 0,1 60,71 L44,71 A1.5,1.5 0 0,1 44,68 Z" />
+
+    <!-- Green Haziri / Attendance Checkmark Badge (Circular) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M66,66 A14,14 0 1,0 66,94 A14,14 0 1,0 66,66 Z" />
+    <!-- White Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,80 L55,75 A1.5,1.5 0 0,1 57,73 L60,76 L74,62 A1.5,1.5 0 0,1 76,64 L61.5,80.5 A1.5,1.5 0 0,1 60,80 Z" />
+
+    <!-- Clipboard Clip at Top -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M46,20 L62,20 A3,3 0 0,1 65,23 L65,26 L43,26 L43,23 A3,3 0 0,1 46,20 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M51,22 A3,3 0 1,0 57,22 A3,3 0 1,0 51,22 Z" />
+</vector>
